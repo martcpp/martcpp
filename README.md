@@ -1,5 +1,5 @@
 <div align="center" style="position: relative;">
-  <img align="center" src="https://github.com/martcpp/martcpp/blob/main/github1.jpg" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://github.com/martcpp/welcome/blob/657e41d09850e8c010e0d89efe279c38e03e7869/github1.jpeg" style = "width: -webkit-fill-available;"/>
   <h1 style="position: absolute; color: white; bottom: 15px; transform: translate(-50%, 0); left: 50%"> Full Stack software Engineer</h1>
 </div>
 <p align="center">
@@ -59,9 +59,6 @@ I like to teach others what I know and always respect their opinions.
     </div>
     <div style="display: flex; align-items: center;">
       <a href="mailto:zogmwatech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">mordecaiemmanueletukudo@gmail.com</b>
-    </div>
-    <div style="display: flex; align-items: center;">
-      <a href="/"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">live:.cid.c9b5761ea163f7e9</b>
     </div>
   </div>
 <div>
