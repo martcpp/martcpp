@@ -6,15 +6,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=tech+%7C%7C+Defi+%7C%7C+C+Game+Enthusiastic;React+%7C%7C+Vue+%7C%7C+Python+%7C%7C+Django+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="grudev325">
 </p>
 
-As I am a seasoned, detail-driven  full stack software engineer , 
-I have learned all of my skills. I like to ask other people what I don't know. I like to learn that others to difficult and I am a person who finds joy
+As I am a seasoned, detail-driven backend software engineer , 
+I have learned all of my skills. I like to ask other people what I don't know. I like to learn that others difficultly and I am a person who finds joy
 in realizing difficult things.
 
 
 I am also an open-source enthusiast and maintainer. 
 I like to teach others what I know and always respect their opinions.
 
-## Full Stack
+##Stack
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
