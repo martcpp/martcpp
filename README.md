@@ -19,7 +19,7 @@ I like to teach others what I know and always respect their opinions.
 ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=C++&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=Cpp&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Csharp-informational?style=flat&logo=Csharp&logoColor=white&color=3bac3a)
 
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
