@@ -1,6 +1,6 @@
 <div align="center" style="position: relative;">
   <img align="center" src="https://github.com/martcpp/welcome/blob/657e41d09850e8c010e0d89efe279c38e03e7869/github1.jpeg" style = "width: -webkit-fill-available;"/>
-  <h1 style="position: absolute; color: white; bottom: 15px; transform: translate(-50%, 0); left: 50%"> Full Stack software Engineer</h1>
+  <h1 style="position: absolute; color: white; bottom: 15px; transform: translate(-50%, 0); left: 50%">Software Engineer (BACKEND) </h1>
 </div>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=tech+%7C%7C+Defi+%7C%7C+C+Game+Enthusiastic;React+%7C%7C+Vue+%7C%7C+Python+%7C%7C+Django+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="grudev325">
