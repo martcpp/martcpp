@@ -44,7 +44,7 @@ I like to teach others what I know and always respect their opinions.
 <div style="display: flex; justify-content: space-between;">
   <div>
     <div style="display: flex; align-items: center;">
-      <a href="mailto:mordecaiemmanueletukudo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">mordecaiemmanueletukudo@gmail.com</b>
+      <a href="mailto:mordecaiemmanueletukudo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;"></b>
     </div>
   </div>
 <div>
