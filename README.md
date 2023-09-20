@@ -39,7 +39,7 @@ I like to teach others what I know and always respect their opinions.
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2>Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 
   <div>
      <div style="display: flex; align-items: center;">
