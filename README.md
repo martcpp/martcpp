@@ -45,7 +45,7 @@ I like to teach others what I know and always respect their opinions.
      <div style="display: flex; align-items: center;">
       <a href="mailto:mordecaiemmanueletukudo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">
       <a href="https://www.linkedin.com/in/mordecai-etukudo-661b6a191"><img src="https://img.shields.io/badge/LinkedIn-0B5394?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">
-      <a href="https://twitter.com/mart_cpp"><img src="https://img.shields.io/badge/X-2986CC?style=for-the-badge&logo=Twitter&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">
+      <a href="https://twitter.com/mart_cpp"><img src="https://img.shields.io/badge/Twitte-000000?style=for-the-badge&logo=X&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">
     </div>
 
 
