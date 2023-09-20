@@ -41,20 +41,12 @@ I like to teach others what I know and always respect their opinions.
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<div style="display: flex; justify-content: space-between;">
   <div>
-    <div style="display: flex; align-items: center;">
+     <div style="display: flex; align-items: center;">
       <a href="mailto:mordecaiemmanueletukudo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">
       <a href="mailto:mordecaiemmanueletukudo@gmail.com"><img src="https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">
+      <a href="mailto:mordecaiemmanueletukudo@gmail.com"><img src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=Twitter&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">
     </div>
-     <div style="display: flex; align-items: center;">
-      
-    </div>
-     <div style="display: flex; align-items: center;">
-      <a href="mailto:mordecaiemmanueletukudo@gmail.com"><img src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=Twitter&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;"></b>
-    </div>
-  </div>
-<div>
 
 
 ### Badges
