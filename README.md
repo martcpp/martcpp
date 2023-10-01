@@ -50,6 +50,7 @@ I like to teach others what I know and always respect their opinions.
 
 
 ### Badges
+[![An image of @martcpp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/martcpp)](https://holopin.io/@martcpp)
 
 ![](https://komarev.com/ghpvc/?username=martcpp)
   
