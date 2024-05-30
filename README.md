@@ -21,6 +21,7 @@ I like to teach others what I know and always respect their opinions.
 ![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=C&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Csharp-informational?style=flat&logo=Csharp&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=Rust&logoColor=white&color=3bac3a)
 
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
@@ -41,6 +42,8 @@ I like to teach others what I know and always respect their opinions.
 
 <h2>Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif'></h2>
 
+
+
   <div>
      <div style="display: flex; align-items: center;">
       <a href="mailto:mordecaiemmanueletukudo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">
@@ -48,14 +51,17 @@ I like to teach others what I know and always respect their opinions.
       <a href="https://twitter.com/mart_cpp"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">
     </div>
 
+    ## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=martcpp&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
 
 ### Badges
 [![An image of @martcpp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/martcpp)](https://holopin.io/@martcpp)
 
 ![](https://komarev.com/ghpvc/?username=martcpp)
   
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martcpp&show_icons=true&locale=en&layout=compact" alt="martcpp" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=martcpp&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="martcpp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martcpp&show_icons=true&locale=en" alt="martcpp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martcpp&theme=radical&hide_border=false" alt="martcpp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martcpp&" alt="martcpp" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martcpp&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="martcpp"/></p>
